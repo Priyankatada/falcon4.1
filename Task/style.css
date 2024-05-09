@@ -1,0 +1,15 @@
+* {
+    margin: auto;
+}
+
+#heading {
+    color: black;
+}
+
+.name {
+    color: blue;
+}
+
+img {
+    line-height: normal;
+}

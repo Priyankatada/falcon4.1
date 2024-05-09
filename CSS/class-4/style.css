@@ -1,0 +1,17 @@
+#heading {
+    color:yellowgreen
+}
+
+#profile{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+#paragraph{
+    background-color:black;
+    color:aliceblue;
+}
+
+.name{
+    color: blueviolet;
+}

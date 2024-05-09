@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.heading {
+    /* color: rgb(0, 100, 0) */
+    color: #783c53;
+    /* text-align: left; */
+    /* text-align: right; */
+    text-align: center;
+    /* text-decoration: line-through; */
+    /* text-decoration: wavy; */
+    /* text-transform: lowercase; */
+    /* font-size: 80px; */
+    /* font-weight: 100; */
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    line-height: 40px;
+}
