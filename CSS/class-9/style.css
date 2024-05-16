@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: blueviolet;
+}
+.box{
+    width: 200px;
+    height: 100px;
+    border: 3px solid;
+}
+
+#box2{
+    background-color: red;
+    position: relative;
+    left: 50px;
+    top: 0px;
+}
+#box3{
+    background-color:green;
+    position: absolute;
+    right: 50px;
+    top: 0px;
+    z-index: 1;
+
+}
+#box4{
+    background-color:yellow;
+    position: fixed;
+    left: 50px;
+    top: 0px;
+    width: 100vw;
+    z-index: 2;
+
+}
