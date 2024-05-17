@@ -12,17 +12,17 @@ console.log(substraction);
 
 let num5 = 6;
 let num6 = 5;
-let multiplication = num5 - num6;
+let multiplication = num5 * num6;
 console.log(multiplication);
 
 let num7 = 10;
 let num8 = 5;
-let divison = num7 - num8;
+let divison = num7 / num8;
 console.log(divison);
 
 let num9 = 10;
 let num10 = 5;
-let modulus= num9 - num10;
+let modulus= num9 % num10;
 console.log(modulus);
 
 
