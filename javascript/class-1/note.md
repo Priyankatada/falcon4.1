@@ -45,3 +45,10 @@ ex-2+5+10+3=20
 5-STRING
 6-bigInt
 7-SYMBOL
+
+
+index start from 0
+ex-let sentence= he is a good boy
+total num=15
+
+charAt()=buit in function
