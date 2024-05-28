@@ -1,0 +1,48 @@
+.heading {
+    text-align: center;
+  }
+  .color_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+  .color {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    transition: 1s ease-in-out;
+    border-radius: 15px;
+    box-shadow:  rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px ;
+  }
+  #Black {
+    background-color: black;
+    color: white;
+  }
+  #Blue {
+    background-color:blue;
+    color: white;
+  }
+  #Yellow {
+    background-color: yellow;
+    color: white;
+  }
+  #green {
+    background-color: green;
+    color: white;
+  }
+  #purple{
+    background-color: purple;
+    color: white;
+  }
+  #random {
+    background-color: white;
+    color: black;
+  }
+  .color:hover {
+    cursor: pointer;
+    font-size: 25px;
+  }
